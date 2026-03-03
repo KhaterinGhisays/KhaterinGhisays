@@ -22,7 +22,9 @@ Análisis de comportamiento esperado vs resultado actual
 🕵️ Actualmente continúo fortaleciendo mis habilidades en Quality Assurance mediante práctica constante y desarrollo de proyectos QA.
 
 🛠️ Herramientas y Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 📫 Contacto
 
 💼 LinkedIn: https://www.linkedin.com/in/khaterinescarragaghisays/
