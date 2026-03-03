@@ -1,56 +1,31 @@
 <img width="1536" height="356" alt="50c63163-e8ca-4092-b998-921cdffcb9bc" src="https://github.com/user-attachments/assets/9ab7fd60-b0b0-40e7-a4c1-128bb617fe7f" />
 
-# Hola soy 👩‍💻 Khaterin Escarraga
+👋 Hola, soy Khaterin Escarraga Ghisays
+👨‍💻 Sobre mí
 
-## QA Tester | Manual & Automation Testing | Software Quality Enthusiast
+Apasionada por la tecnología y actualmente en formación para iniciar mi carrera profesional como QA Engineer, enfocada en asegurar la calidad del software mediante pruebas funcionales y análisis de resultados.
 
-Profesional en Negocios Internacionales con Maestría en Administración y formación en **Software Testing QA (TripleTen)**.
-Cuento con experiencia en **testing manual y automatizado**, validación de APIs y análisis de datos para garantizar productos confiables y funcionales.
+🔭 Actualmente curso el Bootcamp QA Engineer en TripleTen, donde estoy desarrollando habilidades prácticas en testing manual y validación de aplicaciones web a través de proyectos reales de aprendizaje.
 
-Mi trayectoria en áreas comerciales y de servicio al cliente me ha permitido desarrollar una fuerte orientación al detalle, pensamiento analítico y trabajo bajo metodologías ágiles.
+🌱 Hasta el momento he trabajado en:
 
-Apasionada por la **mejora continua**, la **calidad del software** y la optimización de procesos.
+Diseño de casos de prueba (Test Cases)
+Técnicas de testing como Clases de Equivalencia
+Creación y ejecución de checklists de pruebas
+Validación funcional de aplicaciones web
+Identificación y documentación de resultados de pruebas
+Testing de APIs mediante solicitudes HTTP
+Análisis de comportamiento esperado vs resultado actual
 
-## 🛠️ Tecnologías y Herramientas
+💓 Me interesa especialmente detectar errores, analizar comportamientos del sistema y contribuir a la creación de productos digitales confiables y funcionales.
 
-* ✅ Manual Testing
-* ✅ Test Case Design
-* ✅ Bug Reporting & Tracking
-* ✅ Agile / Scrum
+🕵️ Actualmente continúo fortaleciendo mis habilidades en Quality Assurance mediante práctica constante y desarrollo de proyectos QA.
 
-**Tools & Technologies**
-
-* Jira
-* Postman (API Testing)
-* SQL
-* Excel
-* Git & GitHub
-
-## 📂 Proyectos Destacados – TripleTen
-
-### 🔎 QA Testing Project
-
-* Diseño y ejecución de casos de prueba
-* Reporte de bugs en Jira
-* Pruebas funcionales y exploratorias
-* Validación de requisitos
-
-### 🌐 API Testing Project
-
-* Pruebas de endpoints con Postman
-* Validación de respuestas HTTP
-* Testing de métodos GET, POST, PUT y DELETE
-* Automatización básica de pruebas
-
-### 🗄️ SQL Testing Project
-
-* Consultas SQL para validación de datos
-* Verificación de integridad de información
-* Análisis de bases de datos para testing
-
-## 📫 Conectemos
+🛠️ Herramientas y Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+📫 Contacto
 
 💼 LinkedIn: https://www.linkedin.com/in/khaterinescarragaghisays/
-📧 Email: [khateg02@gmail.com]
+🐙 GitHub: https://github.com/KhaterinGhisays
 
-⭐ Siempre aprendiendo y mejorando habilidades en QA Testing.
+⭐ En proceso de crecimiento profesional en QA Engineer.
