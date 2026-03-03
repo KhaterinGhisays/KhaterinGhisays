@@ -1,3 +1,5 @@
+<img width="1536" height="356" alt="50c63163-e8ca-4092-b998-921cdffcb9bc" src="https://github.com/user-attachments/assets/9ab7fd60-b0b0-40e7-a4c1-128bb617fe7f" />
+
 # Hola soy 👩‍💻 Khaterin Escarraga
 
 ## QA Tester | Manual & Automation Testing | Software Quality Enthusiast
@@ -48,8 +50,7 @@ Apasionada por la **mejora continua**, la **calidad del software** y la optimiza
 
 ## 📫 Conectemos
 
-💼 LinkedIn: https://www.linkedin.com/
-📧 Email: [tu correo profesional]
-<img width="1536" height="1024" alt="50c63163-e8ca-4092-b998-921cdffcb9bc" src="https://github.com/user-attachments/assets/0a78df55-97d7-4dd3-9aa0-c6c9d2dc6b0c" />
+💼 LinkedIn: https://www.linkedin.com/in/khaterinescarragaghisays/
+📧 Email: [khateg02@gmail.com]
 
 ⭐ Siempre aprendiendo y mejorando habilidades en QA Testing.
