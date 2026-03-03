@@ -9,8 +9,6 @@ Mi trayectoria en áreas comerciales y de servicio al cliente me ha permitido de
 
 Apasionada por la **mejora continua**, la **calidad del software** y la optimización de procesos.
 
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 * ✅ Manual Testing
@@ -48,19 +46,10 @@ Apasionada por la **mejora continua**, la **calidad del software** y la optimiza
 * Verificación de integridad de información
 * Análisis de bases de datos para testing
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaterinGhisays\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Conectemos
 
 💼 LinkedIn: https://www.linkedin.com/
 📧 Email: [tu correo profesional]
-
----
+<img width="1536" height="1024" alt="50c63163-e8ca-4092-b998-921cdffcb9bc" src="https://github.com/user-attachments/assets/0a78df55-97d7-4dd3-9aa0-c6c9d2dc6b0c" />
 
 ⭐ Siempre aprendiendo y mejorando habilidades en QA Testing.
